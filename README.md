@@ -4,11 +4,12 @@
    <br><br>
 
 <h3 align="center">Full Stack Web developer</h3>
+<br><br>
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Rising+Mern+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=green&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Rising+Mern+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 </br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg">
 <div align="left">
 # 💫 About Me:
 👯 I’m looking to collaborate on Good Tech Skills<br>🌱 I’m currently learning Full Stack Web Development<br>📫 How to reach me: <a href="#">mdali91935@gmail.com</a><br>👯 Aspiring Web Developer....<br>👯 Self Motivated<br>⚡ Quick learner<br>💬 Ask me about React,nodeJs,Express,Javascript, HTML, CSS, DSA 
