@@ -11,7 +11,7 @@
 </br>
 <img align="right" alt="Coding" width="400" src="https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg">
 <div align="left">
-# 💫 Interest and Description: <br><br>
+# 💫 Interest and Description: <br>
 👯 Aspiring MERN Developer<br>👯 Self Motivated<br>⚡ Quick learner<br>📫 How to reach me: <a href="#">mdali91935@gmail.com</a><br>💬 Ask me about React,nodeJs,Express,Javascript, HTML, CSS, DSA 
 </div>
 <h3 align="left">Connect with me:</h3>
