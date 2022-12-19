@@ -11,8 +11,8 @@
 </br>
 <img align="right" alt="Coding" width="400" src="https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg">
 <div align="left">
-# 💫 Interest and Description:<br>
-    --I am from Kolkata, West Bengal. Aspiring full stack web developer, having problem-solving ability and proficiency in MERN Stack. A quick learner and always curious to learn new things. I have completed my graduation in Bcom (Account. Honours) from Umes Chandra College, Calcutta University. I have also done a digital marketing course from NIHT. Then I completed my full stack web development bootcamp from Masai School. <br>
+ <h3> Interest and Description:</h3> <br>
+   --I am from Kolkata, West Bengal. Aspiring full stack web developer, having problem-solving ability and proficiency in MERN Stack. A quick learner and always curious to learn new things. I have completed my graduation in Bcom (Account. Honours) from Umes Chandra College, Calcutta University. I have also done a digital marketing course from NIHT. Then I completed my full stack web development bootcamp from Masai School. <br>
 👯 Aspiring MERN Developer<br>👯 Self Motivated<br>⚡ Quick learner<br>📫 How to reach me: <a href="#">mdali91935@gmail.com</a><br>💬 Ask me about React,nodeJs,Express,Javascript, HTML, CSS, DSA 
 </div>
 <h3 align="left">Connect with me:</h3>
