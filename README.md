@@ -17,9 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/md-ali11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md ali" height="30" width="40" /></a>
-   <p align="left">
-<a href="http://localhost:3000/#projects" target="blank"><img align="center" src="https://media.glassdoor.com/sqll/871287/portfolio-creative-squarelogo-1481657231978.png" alt="md ali" height="30" width="40" /></a>
-</p>
+   <a href="https://mdali-11.github.io/" target="blank"><img align="center" src="https://media.glassdoor.com/sqll/871287/portfolio-creative-squarelogo-1481657231978.png" alt="md ali" height="30" width="40" /></a>
 </p>
 
 
