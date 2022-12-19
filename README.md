@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="400" src="https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg">
 <div align="left">
 # 💫 About Me:
-👯 I’m looking to collaborate on Good Tech Skills<br>🌱 I’m currently learning Full Stack Web Development<br>📫 How to reach me: <a href="#">mdali91935@gmail.com</a><br>👯 Aspiring Web Developer....<br>👯 Self Motivated<br>⚡ Quick learner<br>💬 Ask me about React,nodeJs,Express,Javascript, HTML, CSS, DSA 
+👯 Aspiring Full Stack Web Developer<br>🌱<br>👯 Aspiring Web Developer....<br>👯 Self Motivated<br>⚡ Quick learner<br>📫 How to reach me: <a href="#">mdali91935@gmail.com</a><br>💬 Ask me about React,nodeJs,Express,Javascript, HTML, CSS, DSA 
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
