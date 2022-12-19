@@ -32,7 +32,7 @@
 
 ---
 
-<a href="https://github.com/mdali-11/github-readme-activity-graph"><img alt="Md Ali's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=mdali-11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 
 <p align="center">
